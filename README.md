@@ -1,12 +1,20 @@
-# @Zepoh
+# ZEPOH
+## dev front end
 
 - 👋 Hi, call me  _**Le Zepoh**_
-- 👀 I’m interested in design, code, bots, web
-- 💻 I’m currently learning JavaScript, AI and python
+- 👀 I’m interested in design,front-end developpement
+- 💻 I’m currently learning JavaScript
 - 📫 How to reach me :
     + [telegram](https://t.me/le_zepoh)  
     + [mail](menzepohyvesseraphin@gmail.com)
-    + 
+
+
+
+
+
+
+
+
 
 <!---
 Zepoh/Zepoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
