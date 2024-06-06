@@ -1,9 +1,12 @@
 # ZEPOH
-## dev front end
+
+![La banniere du profil github de Zepoh](https://github.com/Zepoh/Zepoh/blob/main/graphical_chart/BanniereZepohGithubFrontEnd.png)
 
 Hi, call me  **Le Zepoh**   
 I’m a front end developer an UX/UI designer base in Africa   
 I’m currently learning JavaScript  
+
+## dev front end
 
 ### How to reach me
 + [telegram](https://t.me/le_zepoh)  
