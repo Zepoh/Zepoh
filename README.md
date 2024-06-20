@@ -1,6 +1,7 @@
 # ZEPOH
 
-![La banniere du profil github de Zepoh](https://github.com/Zepoh/Zepoh/blob/main/graphical_chart/BanniereZepohGithubFrontEnd.png)
+![La banniere du profil github de Zepoh](https://github.com/Zepoh/Zepoh/blob/main/graphical_chart/Banniere_zepoh_github_annimation_V1.gif
+)
 
 Hi, call me  **Le Zepoh**   
 I’m a front end developer an UX/UI designer base in Africa   
