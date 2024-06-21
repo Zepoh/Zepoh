@@ -4,7 +4,7 @@
 )
 
 Hi, call me  **Le Zepoh**   
-I’m a front end developer an UX/UI designer base in Africa   
+I’m a front end developer an UX/UI designer based in Africa   
 I’m currently learning JavaScript  
 
 ## dev front end
